@@ -1,2 +1,3 @@
 2) parent(X,pat).
 3) parent(lisa, X).
+4)
